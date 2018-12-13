@@ -1,4 +1,5 @@
 #The Contacts Example Collection
+
 The contacts collection provides example data for experimenting with MongoDB. Many of this guide’s examples on insert, update and read operations create or query data from the contacts collection.
 
 The following documents comprise the contacts collection. In the examples, the data might be different, as the examples themselves make changes to the data.
