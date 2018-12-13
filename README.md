@@ -1,4 +1,4 @@
-#The Contacts Example Collection
+# The Contacts Example Collection
 
 The contacts collection provides example data for experimenting with MongoDB. Many of this guide’s examples on insert, update and read operations create or query data from the contacts collection.
 
